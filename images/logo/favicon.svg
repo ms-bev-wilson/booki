@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" role="img" aria-label="Booki favicon">
+  <rect rx="10" ry="10" width="64" height="64" fill="#FF6F61"/>
+  <g transform="translate(8 12)">
+    <rect x="0" y="6" width="48" height="36" rx="4" fill="#fff"/>
+    <path d="M4 10h40v2H4zM4 20h40v2H4z" fill="#eee"/>
+    <text x="24" y="28" font-family="Raleway, Arial, sans-serif" font-size="20" fill="#FF6F61" font-weight="700" text-anchor="middle" alignment-baseline="middle">B</text>
+  </g>
+</svg>
